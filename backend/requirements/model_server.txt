@@ -202,7 +202,7 @@ multidict==6.7.0
     #   aiobotocore
     #   aiohttp
     #   yarl
-networkx==3.5
+networkx==3.6.1
     # via torch
 numpy==2.4.1
     # via
