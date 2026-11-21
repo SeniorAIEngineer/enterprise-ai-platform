@@ -77,7 +77,7 @@ backoff==2.2.1
     #   unstructured
 backports-tarfile==1.2.0 ; python_full_version < '3.12'
     # via jaraco-context
-bcrypt==4.3.0
+bcrypt==5.0.0
     # via pwdlib
 beartype==0.22.6
     # via py-key-value-aio
